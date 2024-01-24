@@ -44,6 +44,30 @@ public class Lesson_5 {
 //        System.out.println("My age is" + " " + myAge);
 //        System.out.println(names[0]);
 
+//String[] names = {"Goege", "Jill", "Xinyi", "Ravi"};
+//
+//for (String n : names) {
+//    System.out.println("Bame is " + n);
+//}
+//int passmark = 12;
+       // boolean passed = false;
+//        int[] scores = {4, 6, 2, 8, 12, 35, 9};
+//        for (int unitScore : scores) {
+//            if (unitScore >= 12) {
+//                passed = true;
+//                break;
+//            }
+//        }
+//        //System.out.println("At least one passed " + passed);int passmark = 12;
+        boolean passed = false;
+        int[] scores = {4, 6, 2, 8, 12, 35, 9};
+        for (int unitScore : scores) {
+            if (unitScore >= 12) {
+                passed = true;
+                break;
+            }
+        }
+        System.out.println("At least one passed " + passed);
+        
     }
-
 }
