@@ -9,7 +9,7 @@ package lesson_8;
  * @author letti
  */
 public class Shirt {
-
+        
     public Shirt() {
         System.out.println("in Shirt Constructor");
         description = "-description required";
