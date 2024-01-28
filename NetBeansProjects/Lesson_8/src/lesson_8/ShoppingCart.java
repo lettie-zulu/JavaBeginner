@@ -12,7 +12,7 @@ public class ShoppingCart {
 
     public static void main(String[] args) {
         Shirt myShirt = new Shirt();
-        myShirt.display();
+        //myShirt.display();
         System.out.println("the end");
     }
 }
