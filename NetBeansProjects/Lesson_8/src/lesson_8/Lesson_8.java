@@ -14,7 +14,19 @@ public class Lesson_8 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+//        Calculator calc = new Calculator();
+//        double denominator = 2.0;
+//        double answer = calc.calculate(3, denominator);
+//        System.out.println(answer);
+//int num1 = 1, num2 = 2;
+//int result = num1 + num2;
+//        System.out.println(result);
+//        int num1 = 1, num2 = 2;
+//        int result =sum(num1, num2);
+//        System.out.println(result);
+       
+ }
+    public int sum(int x, int y) {
+        return x + y;
     }
-    
 }
