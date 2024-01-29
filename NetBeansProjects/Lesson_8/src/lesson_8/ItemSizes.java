@@ -10,4 +10,6 @@ package lesson_8;
  */
 public class ItemSizes {
     
+       static final String mSmall = "Men's Small";
+    static final String mMed = "Men's Medium";
 }
