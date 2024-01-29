@@ -9,5 +9,10 @@ package lesson_8;
  * @author letti
  */
 public class Item {
-    
+  
+    public String size;
+
+    public void setSize(String sizeArg) {
+        this.size = sizeArg;
+    }  
 }
