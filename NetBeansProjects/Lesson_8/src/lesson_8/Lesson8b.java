@@ -11,8 +11,8 @@ package lesson_8;
 public class Lesson8b {
 
     public static void main(String[] args) {
-        Lesson_8 less8 = new Lesson_8();
-        double result = less8.sum(28, 99);
-        System.out.println(result);
+//        Lesson_8 less8 = new Lesson_8();
+//        double result = less8.sum(28, 99);
+//        System.out.println(result);
     }
 }
