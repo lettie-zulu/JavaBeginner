@@ -24,7 +24,10 @@ public class Lesson_8 {
 //        int num1 = 1, num2 = 2;
 //        int result =sum(num1, num2);
 //        System.out.println(result);
-       
+
+      Item item1 = new Item();
+        item1.setSize(ItemSizes.mMed);
+        System.out.println(item1.size);   
  }
     public int sum(int x, int y) {
         return x + y;
