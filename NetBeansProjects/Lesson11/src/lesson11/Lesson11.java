@@ -4,11 +4,12 @@
  */
 package lesson11;
 
-import java.time.*;
-import java.time.format.DateTimeFormatter;
+//import java.time.*;
+//import java.time.format.DateTimeFormatter;
 //import java.time.chrono.JapaneseDate;
 //import java.time.format.DateTimeFormatter;
-import java.time.format.FormatStyle;
+//import java.time.format.FormatStyle;
+import java.util.ArrayList;
 
 /**
  *
@@ -44,8 +45,7 @@ public class Lesson11 {
 //        yearlySales[3][1] = 5000;
 //        yearlySales[1][2] = 10000;
 //        System.out.println(yearlySales[1][2]);
-
-        System.out.println("/*");
+//        System.out.println("/*");
 //        int counter = 0;
 //        
 //        while (counter < 3) {
@@ -53,21 +53,34 @@ public class Lesson11 {
 //            counter++;
 //        }
 //        System.out.println("*/");
-
-  int counter = 0;
-        
-  System.out.println("*/");
-  System.out.println("*/");
-        for ( counter = 3; counter > 0; counter--) {
-            System.out.println("*");
-            
-        }
-        
-        System.out.println("*/");
-
+//  int counter = 0;
+//        
+//  System.out.println("*/");
+//  System.out.println("*/");
+//        for ( counter = 3; counter > 0; counter--) {
+//            System.out.println("*");
+//            
+//        }
+//        
+//        System.out.println("*/");
 //for (int i = 0; i < 5; i++) {
 //            System.out.println(i);
 //        }
+//        ArrayList<String> names;
+//        names = new ArrayList();
+//        names.add("Jamie");
+//        names.add("Gustav");
+//        names.add("Alisa");
+//        names.add("Jose");
+//        names.add("Prashant");
+//        System.out.println(names);
+//        names.remove(index: 0);
+//        System.out.println(names);
+//        names.remove(index names.size() - 1);
+//        System.out.println(names);
+//        names.remove("Gustav");
+//        System.out.println(names);
+
     }
 
 }
